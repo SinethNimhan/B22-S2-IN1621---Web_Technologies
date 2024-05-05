@@ -106,7 +106,7 @@ nav a:hover {
 }
 .text div{
     background-color: #000000;
-    font-size: 9px;
+    font-size: 11px;
     font-weight: 600;
     text-align: center;
     width: 50%;
@@ -114,7 +114,7 @@ nav a:hover {
     padding: 5px 0 5px 0;
 }
 .text h6{
-    font-size: 9px;
+    font-size: 11px;
     letter-spacing: 1px;
     color: rgb(185, 185, 185);;
 }
