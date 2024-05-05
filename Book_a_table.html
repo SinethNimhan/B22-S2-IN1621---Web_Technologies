@@ -71,46 +71,55 @@
           </div>
         </div>
         <div id="part2">
-          <form action="backend/book_a_table.php" method="post">
+          <form id="book" action="backend/book_a_table.php" method="post">
             <div id="innputtype1">
               <label class="input">
                 COMPANY <br>
-                <input type="text" name="Company" id="company" required>
+                <input type="text" name="Company" id="company">
               </label>
               <label class="input">
                 YOUR NAME <br>
-                <input type="text" name="name" id="name" required>
+                <input type="text" name="name" id="name">
               </label>
               <label class="input">
                 YOUR EMAIL <br>
-                <input type="text" name="email" id="email" required>
+                <input type="text" name="email" id="email">
               </label>
               <label class="input">
                 DATE <br>
-                <input type="date" name="date" id="date" required>
+                <input type="date" name="date" id="date">
               </label>
             </div>
             <div id="innputtype2">
               <label class="input">TIME <br></label>
               <div class="radio">
-                <div><label><input type="radio" name="time" id="time1" required value="9:00">9:00</div></label>
-                <div><label><input type="radio" name="time" id="time2" required value="9:30">9:30</div></label>
-                <div><label><input type="radio" name="time" id="time3" required value="10:00">10:00</div></label>
-                <div><label><input type="radio" name="time" id="time4" required value="10:30">10:30</div></label>
+                <div><label><input type="radio" name="time" id="time1" value="9:00">9:00</div></label>
+                <div><label><input type="radio" name="time" id="time2" value="9:30">9:30</div></label>
+                <div><label><input type="radio" name="time" id="time3" value="10:00">10:00</div></label>
+                <div><label><input type="radio" name="time" id="time4" value="10:30">10:30</div></label>
               </div>
             </div>
             <div id="innputtype1">
               <label class="input">
                 NUMBER OF PEOPLE <br>
-                <input type="text" name="count" id="count" required>
+                <input type="text" name="count" id="count">
               </label>
               <label class="input">
                 YOUR MESSAGE <br>
-                <textarea name="text" id="text" cols="30" rows="10" required></textarea>
+                <textarea name="text" id="text" cols="30" rows="10"></textarea>
               </label>
             </div>
-            <input type="submit" value="SEND" id="btn">
+            <input type="submit" value="SEND" id="submit-button">
           </form>
+
+            <div id="thank-you-message" class="hidden">
+              <p>Thank you for your submission!</p>
+            </div>
+            <div id="error-message" class="error-message hidden">
+              <p>Oops! Something went wrong. Please try again later.</p>
+            </div>
+
+        </div>
         </div>
       </div>
     </div>

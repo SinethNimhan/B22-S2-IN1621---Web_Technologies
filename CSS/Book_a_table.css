@@ -149,12 +149,44 @@ section{
   border: 1px solid white;
   color: white;
 }
-#btn{
+#submit-button{
   background-color: white;
   color: #000000;
   border: 3px solid black;
   font-size: 15px;
   padding: 2% 5% 2% 5%;
+}
+
+#submit-button:hover{
+  background-color: black;
+  color: white;
+  border: 3px solid white;
+}
+.hidden {
+  display: none;
+}
+#thank-you-message,
+#error-message {
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+
+#thank-you-message {
+    background-color: #d2ffd2; 
+}
+
+#thank-you-message p {
+    color: green;
+}
+
+#error-message {
+    background-color: #ffd2d2; 
+}
+
+#error-message p {
+    color: red;
 }
 footer {
   background-color: #000000;
