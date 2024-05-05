@@ -155,7 +155,7 @@ img:hover{
 
 
 .div1 {
-    background-image: url(../Resource/Img/01.jpg), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1));
+    background-image: url(../Resource/Img/01.jpg);
     width: 33.33%;
     height: 100vh;
     opacity: 0.9;
@@ -173,7 +173,7 @@ img:hover{
 }
 
 .div3 {
-    background-image: url(../Resource/Img/03.jpg), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3));
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3), url(../Resource/Img/03.jpg));
     width: 33.33%;
     height: 100vh;
     opacity: 0.9;
