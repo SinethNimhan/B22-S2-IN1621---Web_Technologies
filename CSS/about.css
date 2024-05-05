@@ -155,7 +155,7 @@ img:hover{
 
 
 .div1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url(/Resource/Img/01.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)), url(../Resource/Img/01.jpg);
     width: 33.33%;
     height: 100vh;
     opacity: 0.9;
@@ -173,7 +173,7 @@ img:hover{
 }
 
 .div3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url(/Resource/Img/03.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url(../Resource/Img/03.jpg);
     width: 33.33%;
     height: 100vh;
     opacity: 0.9;
@@ -182,7 +182,7 @@ img:hover{
 }
 
 .div4 {
-    background-image: url(/Resource/Img/04.jpg);
+    background-image: url(../Resource/Img/04.jpg);
     width: 50%;
     height: 100vh;
     opacity: 0.9;
@@ -190,7 +190,7 @@ img:hover{
 }
 
 .div6 {
-    background-image: url(/Resource/Img/05.jpg);
+    background-image: url(../Resource/Img/05.jpg);
     width: 50%;
     height: 100vh;
     opacity: 0.9;
@@ -198,7 +198,7 @@ img:hover{
 }
 
 .div9 {
-    background-image: url(/Resource/Img/div9.jpg);
+    background-image: url(../Resource/Img/div9.jpg);
     width: 50%;
     height: 100vh;
     opacity: 0.9;
@@ -207,7 +207,7 @@ img:hover{
 }
 
 .div10 {
-    background-image: url(/Resource/Img/07.jpg);
+    background-image: url(../Resource/Img/07.jpg);
     width: 50%;
     height: 100vh;
     opacity: 0.9;
@@ -273,7 +273,7 @@ p{
 .rightdiv {
     width: 50%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(/Resource/Img/right1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../Resource/Img/right1.jpg);
     opacity: 0.9;
     background-size: cover;
 }
@@ -281,7 +281,7 @@ p{
 .image1 {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(/Resource/Img/left1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../Resource/Img/left1.jpg);
     opacity: 0.9;
     background-size: cover;
 }
@@ -298,7 +298,7 @@ p{
 .image2 {
     height: 50vh;
     width: 50%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(/Resource/Img/left2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../Resource/Img/left2.jpg);
     opacity: 0.9;
     background-size: cover;
 }
@@ -306,7 +306,7 @@ p{
 .image3 {
     height: 50vh;
     width: 50%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(/Resource/Img/left3.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../Resource/Img/left3.jpg);
     opacity: 0.9;
     background-size: cover;
 }

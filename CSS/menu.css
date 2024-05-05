@@ -75,7 +75,7 @@ nav a:hover {
     padding-top: 7%;
     padding-bottom: 10%;
     background-color: black;
-    background-image: url(images/menubackground.jpg);
+    background-image: url(../Resource/Img/menubackground.jpg);
     background-size: cover;
     background-position: center;
 }
