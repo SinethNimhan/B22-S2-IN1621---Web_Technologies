@@ -24,4 +24,4 @@ Nimhan R.D.S
 |      | 224135V  |             |
 
 
-<iframe src="#Workload Matrix.pdf" width="600" height="400"></iframe>
+![[#Workload Matrix.pdf]]
