@@ -25,3 +25,7 @@ Nimhan R.D.S
 
 
 [View PDF](../B22-S2-IN1621---Web_Technologies/cart.html)
+
+<iframe src="../B22-S2-IN1621---Web_Technologies/Workload Matrix.pdf" width="100%" height="500px">
+  <p>Your browser does not support PDF viewing. You can <a href="../B22-S2-IN1621---Web_Technologies/Workload Matrix.pdf">download the PDF</a> instead.</p>
+</iframe>
