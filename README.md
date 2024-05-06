@@ -25,7 +25,7 @@ Nimhan R.D.S
 
 
 [home](../B22-S2-IN1621---Web_Technologies/home_page.html)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=th33k.B22-S2-IN1621---Web_Technologies&left_text=%F0%9F%91%80%20Visitors)](https://github.com/th33k/B22-S2-IN1621---Web_Technologies)
 
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=th33k.B22-S2-IN1621---Web_Technologies" />
 
 
