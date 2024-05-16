@@ -17,7 +17,7 @@ Welcome to the B22-S2-IN1621 Web Technologies module repository! Here, you'll fi
 
 ## Links 🔗
 - [Deployments](https://github.com/th33k/B22-S2-IN1621---Web_Technologies/deployments/github-pages)
-- [Ceylone Coffe](https://th33k.github.io/B22-S2-IN1621---Web_Technologies/home_page.html)
+- [Ceylon Coffe](https://th33k.github.io/B22-S2-IN1621---Web_Technologies/home_page.html)
 
 
 
